@@ -70,6 +70,19 @@ body {
 .projects-link:hover {
   color: #ff6b08;
 }
+.employer-link:visited{
+  color: gray;
+}
+
+.employer-link{
+  color: gray;
+  text-decoration: none;
+}
+
+.employer-link:hover,
+.employer-link:focus{
+  color: #ff6b08;
+}
 
 .jobs-title,
 .education-title {
